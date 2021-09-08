@@ -1,0 +1,8 @@
+.list-content{
+    margin-bottom: 20px;
+}
+.list-content ol li{
+    color: #616161;
+    font-size: 15px;
+    text-indent: 20px;
+}
